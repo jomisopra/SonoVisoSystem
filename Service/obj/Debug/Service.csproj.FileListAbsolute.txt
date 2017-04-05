@@ -1,0 +1,160 @@
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\bin\Debug\Service.dll.config
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\bin\Debug\Service.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\bin\Debug\Service.pdb
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\bin\Debug\Entidades.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\bin\Debug\EntityFramework.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\bin\Debug\Repository.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\bin\Debug\Entidades.pdb
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\bin\Debug\Repository.pdb
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\bin\Debug\EntityFramework.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\obj\Debug\Service.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Service\obj\Debug\Service.pdb
+F:\ \DiarsT2\SonoVisos\Service\bin\Debug\Service.dll.config
+F:\ \DiarsT2\SonoVisos\Service\bin\Debug\Service.dll
+F:\ \DiarsT2\SonoVisos\Service\bin\Debug\Service.pdb
+F:\ \DiarsT2\SonoVisos\Service\bin\Debug\Entidades.dll
+F:\ \DiarsT2\SonoVisos\Service\bin\Debug\EntityFramework.dll
+F:\ \DiarsT2\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.dll
+F:\ \DiarsT2\SonoVisos\Service\bin\Debug\Repository.dll
+F:\ \DiarsT2\SonoVisos\Service\bin\Debug\Entidades.pdb
+F:\ \DiarsT2\SonoVisos\Service\bin\Debug\Repository.pdb
+F:\ \DiarsT2\SonoVisos\Service\bin\Debug\EntityFramework.xml
+F:\ \DiarsT2\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.xml
+F:\ \DiarsT2\SonoVisos\Service\bin\Debug\es\EntityFramework.resources.dll
+F:\ \DiarsT2\SonoVisos\Service\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+F:\ \DiarsT2\SonoVisos\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+F:\ \DiarsT2\SonoVisos\Service\obj\Debug\Service.dll
+F:\ \DiarsT2\SonoVisos\Service\obj\Debug\Service.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\bin\Debug\Service.dll.config
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\bin\Debug\Service.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\bin\Debug\Service.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\bin\Debug\Entidades.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\bin\Debug\EntityFramework.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\bin\Debug\Repository.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\bin\Debug\Entidades.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\bin\Debug\Repository.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\bin\Debug\EntityFramework.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\obj\Debug\Service.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Service\obj\Debug\Service.pdb
+H:\ \DiarsT2_2\SonoVisos\Service\bin\Debug\Service.dll.config
+H:\ \DiarsT2_2\SonoVisos\Service\bin\Debug\Service.dll
+H:\ \DiarsT2_2\SonoVisos\Service\bin\Debug\Service.pdb
+H:\ \DiarsT2_2\SonoVisos\Service\bin\Debug\Entidades.dll
+H:\ \DiarsT2_2\SonoVisos\Service\bin\Debug\EntityFramework.dll
+H:\ \DiarsT2_2\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.dll
+H:\ \DiarsT2_2\SonoVisos\Service\bin\Debug\Repository.dll
+H:\ \DiarsT2_2\SonoVisos\Service\bin\Debug\Entidades.pdb
+H:\ \DiarsT2_2\SonoVisos\Service\bin\Debug\Repository.pdb
+H:\ \DiarsT2_2\SonoVisos\Service\bin\Debug\EntityFramework.xml
+H:\ \DiarsT2_2\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.xml
+H:\ \DiarsT2_2\SonoVisos\Service\bin\Debug\es\EntityFramework.resources.dll
+H:\ \DiarsT2_2\SonoVisos\Service\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+H:\ \DiarsT2_2\SonoVisos\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+H:\ \DiarsT2_2\SonoVisos\Service\obj\Debug\Service.dll
+H:\ \DiarsT2_2\SonoVisos\Service\obj\Debug\Service.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\Service\bin\Debug\Service.dll.config
+D:\Pepe\DiarsT2_2\SonoVisos\Service\bin\Debug\Service.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Service\bin\Debug\Service.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\Service\bin\Debug\Entidades.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Service\bin\Debug\EntityFramework.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Service\bin\Debug\Repository.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Service\bin\Debug\Entidades.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\Service\bin\Debug\Repository.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\Service\bin\Debug\EntityFramework.xml
+D:\Pepe\DiarsT2_2\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Pepe\DiarsT2_2\SonoVisos\Service\bin\Debug\es\EntityFramework.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Service\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Pepe\DiarsT2_2\SonoVisos\Service\obj\Debug\Service.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Service\obj\Debug\Service.pdb
+H:\SonoVisos\Service\bin\Debug\Service.dll.config
+H:\SonoVisos\Service\bin\Debug\Service.dll
+H:\SonoVisos\Service\bin\Debug\Service.pdb
+H:\SonoVisos\Service\bin\Debug\Entidades.dll
+H:\SonoVisos\Service\bin\Debug\EntityFramework.dll
+H:\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.dll
+H:\SonoVisos\Service\bin\Debug\Repository.dll
+H:\SonoVisos\Service\bin\Debug\Entidades.pdb
+H:\SonoVisos\Service\bin\Debug\Repository.pdb
+H:\SonoVisos\Service\bin\Debug\EntityFramework.xml
+H:\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.xml
+H:\SonoVisos\Service\bin\Debug\es\EntityFramework.resources.dll
+H:\SonoVisos\Service\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+H:\SonoVisos\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+H:\SonoVisos\Service\obj\Debug\Service.dll
+H:\SonoVisos\Service\obj\Debug\Service.pdb
+D:\SonoVisos\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\SonoVisos\Service\bin\Debug\Service.dll.config
+D:\SonoVisos\Service\bin\Debug\Service.dll
+D:\SonoVisos\Service\bin\Debug\Service.pdb
+D:\SonoVisos\Service\bin\Debug\Entidades.dll
+D:\SonoVisos\Service\bin\Debug\EntityFramework.dll
+D:\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\SonoVisos\Service\bin\Debug\Repository.dll
+D:\SonoVisos\Service\bin\Debug\Entidades.pdb
+D:\SonoVisos\Service\bin\Debug\Repository.pdb
+D:\SonoVisos\Service\bin\Debug\EntityFramework.xml
+D:\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\SonoVisos\Service\bin\Debug\es\EntityFramework.resources.dll
+D:\SonoVisos\Service\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\SonoVisos\Service\obj\Debug\Service.dll
+D:\SonoVisos\Service\obj\Debug\Service.pdb
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\bin\Debug\Service.dll.config
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\bin\Debug\Service.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\bin\Debug\Service.pdb
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\bin\Debug\Entidades.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\bin\Debug\EntityFramework.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\bin\Debug\Repository.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\bin\Debug\Entidades.pdb
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\bin\Debug\Repository.pdb
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\bin\Debug\EntityFramework.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\bin\Debug\es\EntityFramework.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\obj\Debug\Service.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Service\obj\Debug\Service.pdb
+C:\Users\Dany\Downloads\SonoVisos\Service\bin\Debug\Service.dll.config
+C:\Users\Dany\Downloads\SonoVisos\Service\bin\Debug\Service.dll
+C:\Users\Dany\Downloads\SonoVisos\Service\bin\Debug\Service.pdb
+C:\Users\Dany\Downloads\SonoVisos\Service\bin\Debug\Entidades.dll
+C:\Users\Dany\Downloads\SonoVisos\Service\bin\Debug\EntityFramework.dll
+C:\Users\Dany\Downloads\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dany\Downloads\SonoVisos\Service\bin\Debug\Repository.dll
+C:\Users\Dany\Downloads\SonoVisos\Service\bin\Debug\Entidades.pdb
+C:\Users\Dany\Downloads\SonoVisos\Service\bin\Debug\Repository.pdb
+C:\Users\Dany\Downloads\SonoVisos\Service\bin\Debug\EntityFramework.xml
+C:\Users\Dany\Downloads\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dany\Downloads\SonoVisos\Service\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\Service\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Dany\Downloads\SonoVisos\Service\obj\Debug\Service.dll
+C:\Users\Dany\Downloads\SonoVisos\Service\obj\Debug\Service.pdb
+C:\Users\usuario\Desktop\SonoVisos\Service\bin\Debug\Service.dll.config
+C:\Users\usuario\Desktop\SonoVisos\Service\bin\Debug\Service.dll
+C:\Users\usuario\Desktop\SonoVisos\Service\bin\Debug\Service.pdb
+C:\Users\usuario\Desktop\SonoVisos\Service\bin\Debug\Entidades.dll
+C:\Users\usuario\Desktop\SonoVisos\Service\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\SonoVisos\Service\bin\Debug\Repository.dll
+C:\Users\usuario\Desktop\SonoVisos\Service\bin\Debug\Entidades.pdb
+C:\Users\usuario\Desktop\SonoVisos\Service\bin\Debug\Repository.pdb
+C:\Users\usuario\Desktop\SonoVisos\Service\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\SonoVisos\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\SonoVisos\Service\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\Service\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\SonoVisos\Service\obj\Debug\Service.dll
+C:\Users\usuario\Desktop\SonoVisos\Service\obj\Debug\Service.pdb

@@ -1,0 +1,80 @@
+﻿@model IEnumerable<Entidades.Material>
+
+
+<table class="table">
+    <tr>
+        <th>
+           #
+        </th>
+        <th>
+            Categoria
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Anio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Estado)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Stock)
+        </th>
+       
+        <th>
+           Marca
+        </th>
+        <th>
+           Modelo
+        </th>
+        <th>
+           NroSerie
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdProducto)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Categoria.Descripcion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Anio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Estado)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Stock)
+        </td>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.Marca)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Modelo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NroSerie)
+        </td>
+        <td>
+            @Ajax.ActionLink("Editar", "Edit", new { id = item.IdProducto }, new AjaxOptions()
+            {
+                UpdateTargetId = "form",
+                HttpMethod = "Get",
+                InsertionMode = InsertionMode.Replace
+            }) | |
+            @Html.ActionLink("Details", "Details", new { id = item.IdProducto }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.IdProducto })
+        </td>
+    </tr>
+}
+
+</table>

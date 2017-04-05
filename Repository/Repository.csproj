@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{276A2443-A3ED-43F5-805F-6AC033E50D64}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Repository</RootNamespace>
+    <AssemblyName>Repository</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlquilerRepository.cs" />
+    <Compile Include="AreaRepository.cs" />
+    <Compile Include="CargoRepository.cs" />
+    <Compile Include="CategoriaRepository.cs" />
+    <Compile Include="FormatoRepository.cs" />
+    <Compile Include="GeneroRepository.cs" />
+    <Compile Include="IAlquilerRepository.cs" />
+    <Compile Include="ICargoRepository.cs" />
+    <Compile Include="ICategoriaRepository.cs" />
+    <Compile Include="IFormatoRepository.cs" />
+    <Compile Include="IOcupacionRepository.cs" />
+    <Compile Include="IProduccionRepository.cs" />
+    <Compile Include="IGeneroRepository.cs" />
+    <Compile Include="IAreaRepository.cs" />
+    <Compile Include="IPersonaRepository.cs" />
+    <Compile Include="IProductoRepository.cs" />
+    <Compile Include="Mapping\AlquilerMap.cs" />
+    <Compile Include="Mapping\AreaMap.cs" />
+    <Compile Include="Mapping\CargoMap.cs" />
+    <Compile Include="Mapping\CategoriaMap.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Mapping\ClienteMap.cs" />
+    <Compile Include="Mapping\DetalleAlquilerMap.cs" />
+    <Compile Include="Mapping\DetalleEventoMap.cs" />
+    <Compile Include="Mapping\EventoMap.cs" />
+    <Compile Include="Mapping\FormatoMap.cs" />
+    <Compile Include="Mapping\GeneroMap.cs" />
+    <Compile Include="Mapping\MaterialMap.cs" />
+    <Compile Include="Mapping\MedioMap.cs" />
+    <Compile Include="Mapping\OcupacionMap.cs" />
+    <Compile Include="Mapping\PersonaMap.cs" />
+    <Compile Include="Mapping\ProduccionMap.cs" />
+    <Compile Include="Mapping\ProductoMap.cs" />
+    <Compile Include="Mapping\UsuarioMap.cs" />
+    <Compile Include="Migrations\201612012013242_First.cs" />
+    <Compile Include="Migrations\201612012013242_First.Designer.cs">
+      <DependentUpon>201612012013242_First.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201612012018233_FirstF.cs" />
+    <Compile Include="Migrations\201612012018233_FirstF.Designer.cs">
+      <DependentUpon>201612012018233_FirstF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201612012020518_Firstw.cs" />
+    <Compile Include="Migrations\201612012020518_Firstw.Designer.cs">
+      <DependentUpon>201612012020518_Firstw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201612020334246_CF.cs" />
+    <Compile Include="Migrations\201612020334246_CF.Designer.cs">
+      <DependentUpon>201612020334246_CF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201612020416057_CFds.cs" />
+    <Compile Include="Migrations\201612020416057_CFds.Designer.cs">
+      <DependentUpon>201612020416057_CFds.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="OcupacionRepository.cs" />
+    <Compile Include="PersonaRepository.cs" />
+    <Compile Include="ProduccionRepository.cs" />
+    <Compile Include="ProductoRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SonoVisosContext.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{68a265bf-3557-4546-b577-787de58ba1aa}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201612012013242_First.resx">
+      <DependentUpon>201612012013242_First.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201612012018233_FirstF.resx">
+      <DependentUpon>201612012018233_FirstF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201612012020518_Firstw.resx">
+      <DependentUpon>201612012020518_Firstw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201612020334246_CF.resx">
+      <DependentUpon>201612020334246_CF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201612020416057_CFds.resx">
+      <DependentUpon>201612020416057_CFds.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,168 @@
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\bin\Debug\Repository.dll.config
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\bin\Debug\Repository.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\bin\Debug\Repository.pdb
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\bin\Debug\Entidades.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\bin\Debug\EntityFramework.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\bin\Debug\Entidades.pdb
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\bin\Debug\EntityFramework.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\obj\Debug\Repository.Migrations.Primera.resources
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\obj\Debug\Repository.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Repository\obj\Debug\Repository.pdb
+F:\ \DiarsT2\SonoVisos\Repository\bin\Debug\Repository.dll.config
+F:\ \DiarsT2\SonoVisos\Repository\bin\Debug\Repository.dll
+F:\ \DiarsT2\SonoVisos\Repository\bin\Debug\Repository.pdb
+F:\ \DiarsT2\SonoVisos\Repository\bin\Debug\Entidades.dll
+F:\ \DiarsT2\SonoVisos\Repository\bin\Debug\EntityFramework.dll
+F:\ \DiarsT2\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\ \DiarsT2\SonoVisos\Repository\bin\Debug\Entidades.pdb
+F:\ \DiarsT2\SonoVisos\Repository\bin\Debug\EntityFramework.xml
+F:\ \DiarsT2\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\ \DiarsT2\SonoVisos\Repository\bin\Debug\es\EntityFramework.resources.dll
+F:\ \DiarsT2\SonoVisos\Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+F:\ \DiarsT2\SonoVisos\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+F:\ \DiarsT2\SonoVisos\Repository\obj\Debug\Repository.Migrations.Primera.resources
+F:\ \DiarsT2\SonoVisos\Repository\obj\Debug\Repository.Migrations.Segunda.resources
+F:\ \DiarsT2\SonoVisos\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+F:\ \DiarsT2\SonoVisos\Repository\obj\Debug\Repository.dll
+F:\ \DiarsT2\SonoVisos\Repository\obj\Debug\Repository.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\bin\Debug\Repository.dll.config
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\bin\Debug\Repository.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\bin\Debug\Repository.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\bin\Debug\Entidades.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\bin\Debug\EntityFramework.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\bin\Debug\Entidades.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\bin\Debug\EntityFramework.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\obj\Debug\Repository.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\obj\Debug\Repository.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\obj\Debug\Repository.Migrations.Primera.resources
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+H:\ \DiarsT2_2\SonoVisos\Repository\bin\Debug\Repository.dll.config
+H:\ \DiarsT2_2\SonoVisos\Repository\bin\Debug\Repository.dll
+H:\ \DiarsT2_2\SonoVisos\Repository\bin\Debug\Repository.pdb
+H:\ \DiarsT2_2\SonoVisos\Repository\bin\Debug\Entidades.dll
+H:\ \DiarsT2_2\SonoVisos\Repository\bin\Debug\EntityFramework.dll
+H:\ \DiarsT2_2\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.dll
+H:\ \DiarsT2_2\SonoVisos\Repository\bin\Debug\Entidades.pdb
+H:\ \DiarsT2_2\SonoVisos\Repository\bin\Debug\EntityFramework.xml
+H:\ \DiarsT2_2\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.xml
+H:\ \DiarsT2_2\SonoVisos\Repository\bin\Debug\es\EntityFramework.resources.dll
+H:\ \DiarsT2_2\SonoVisos\Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+H:\ \DiarsT2_2\SonoVisos\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+H:\ \DiarsT2_2\SonoVisos\Repository\obj\Debug\Repository.Migrations.Primera.resources
+H:\ \DiarsT2_2\SonoVisos\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+H:\ \DiarsT2_2\SonoVisos\Repository\obj\Debug\Repository.dll
+H:\ \DiarsT2_2\SonoVisos\Repository\obj\Debug\Repository.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\bin\Debug\Repository.dll.config
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\bin\Debug\Repository.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\bin\Debug\Repository.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\bin\Debug\Entidades.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\bin\Debug\EntityFramework.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\bin\Debug\Entidades.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\bin\Debug\EntityFramework.xml
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\bin\Debug\es\EntityFramework.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\obj\Debug\Repository.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\obj\Debug\Repository.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\obj\Debug\Repository.Migrations.First.resources
+D:\Pepe\DiarsT2_2\SonoVisos\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+H:\SonoVisos\Repository\bin\Debug\Repository.dll.config
+H:\SonoVisos\Repository\bin\Debug\Repository.dll
+H:\SonoVisos\Repository\bin\Debug\Repository.pdb
+H:\SonoVisos\Repository\bin\Debug\Entidades.dll
+H:\SonoVisos\Repository\bin\Debug\EntityFramework.dll
+H:\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.dll
+H:\SonoVisos\Repository\bin\Debug\Entidades.pdb
+H:\SonoVisos\Repository\bin\Debug\EntityFramework.xml
+H:\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.xml
+H:\SonoVisos\Repository\bin\Debug\es\EntityFramework.resources.dll
+H:\SonoVisos\Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+H:\SonoVisos\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+H:\SonoVisos\Repository\obj\Debug\Repository.Migrations.First.resources
+H:\SonoVisos\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+H:\SonoVisos\Repository\obj\Debug\Repository.dll
+H:\SonoVisos\Repository\obj\Debug\Repository.pdb
+H:\SonoVisos\Repository\obj\Debug\Repository.Migrations.SegundaD.resources
+H:\SonoVisos\Repository\obj\Debug\Repository.Migrations.TercerBD.resources
+D:\SonoVisos\Repository\bin\Debug\Repository.dll.config
+D:\SonoVisos\Repository\bin\Debug\Repository.dll
+D:\SonoVisos\Repository\bin\Debug\Repository.pdb
+D:\SonoVisos\Repository\bin\Debug\Entidades.dll
+D:\SonoVisos\Repository\bin\Debug\EntityFramework.dll
+D:\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\SonoVisos\Repository\bin\Debug\Entidades.pdb
+D:\SonoVisos\Repository\bin\Debug\EntityFramework.xml
+D:\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\SonoVisos\Repository\bin\Debug\es\EntityFramework.resources.dll
+D:\SonoVisos\Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\SonoVisos\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\SonoVisos\Repository\obj\Debug\Repository.dll
+D:\SonoVisos\Repository\obj\Debug\Repository.pdb
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\bin\Debug\Repository.dll.config
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\bin\Debug\Repository.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\bin\Debug\Repository.pdb
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\bin\Debug\Entidades.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\bin\Debug\EntityFramework.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\bin\Debug\Entidades.pdb
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\bin\Debug\EntityFramework.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\bin\Debug\es\EntityFramework.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\obj\Debug\Repository.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\obj\Debug\Repository.pdb
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\obj\Debug\Repository.Migrations.xaxaxa.resources
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+D:\SonoVisos\Repository\obj\Debug\Repository.Migrations.Incio.resources
+D:\SonoVisos\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+C:\Users\Dany\Downloads\SonoVisos\Repository\bin\Debug\Repository.dll.config
+C:\Users\Dany\Downloads\SonoVisos\Repository\bin\Debug\Repository.dll
+C:\Users\Dany\Downloads\SonoVisos\Repository\bin\Debug\Repository.pdb
+C:\Users\Dany\Downloads\SonoVisos\Repository\bin\Debug\Entidades.dll
+C:\Users\Dany\Downloads\SonoVisos\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Dany\Downloads\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dany\Downloads\SonoVisos\Repository\bin\Debug\Entidades.pdb
+C:\Users\Dany\Downloads\SonoVisos\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Dany\Downloads\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dany\Downloads\SonoVisos\Repository\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Dany\Downloads\SonoVisos\Repository\obj\Debug\Repository.dll
+C:\Users\Dany\Downloads\SonoVisos\Repository\obj\Debug\Repository.pdb
+C:\Users\Dany\Downloads\SonoVisos\Repository\obj\Debug\Repository.Migrations.Inicio.resources
+C:\Users\Dany\Downloads\SonoVisos\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+C:\Users\Dany\Downloads\SonoVisos\Repository\obj\Debug\Repository.Migrations.Second.resources
+C:\Users\usuario\Desktop\SonoVisos\Repository\bin\Debug\Repository.dll.config
+C:\Users\usuario\Desktop\SonoVisos\Repository\bin\Debug\Repository.dll
+C:\Users\usuario\Desktop\SonoVisos\Repository\bin\Debug\Repository.pdb
+C:\Users\usuario\Desktop\SonoVisos\Repository\bin\Debug\Entidades.dll
+C:\Users\usuario\Desktop\SonoVisos\Repository\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\SonoVisos\Repository\bin\Debug\Entidades.pdb
+C:\Users\usuario\Desktop\SonoVisos\Repository\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\SonoVisos\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\SonoVisos\Repository\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\SonoVisos\Repository\obj\Debug\Repository.dll
+C:\Users\usuario\Desktop\SonoVisos\Repository\obj\Debug\Repository.pdb
+C:\Users\usuario\Desktop\SonoVisos\Repository\obj\Debug\Repository.Migrations.First.resources
+C:\Users\usuario\Desktop\SonoVisos\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\SonoVisos\Repository\obj\Debug\Repository.Migrations.FirstF.resources
+C:\Users\usuario\Desktop\SonoVisos\Repository\obj\Debug\Repository.Migrations.Firstw.resources
+C:\Users\usuario\Desktop\SonoVisos\Repository\obj\Debug\Repository.Migrations.CF.resources
+C:\Users\usuario\Desktop\SonoVisos\Repository\obj\Debug\Repository.Migrations.CFds.resources

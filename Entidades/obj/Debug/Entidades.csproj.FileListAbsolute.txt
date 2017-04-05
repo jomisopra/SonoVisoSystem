@@ -1,0 +1,44 @@
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Entidades\bin\Debug\Entidades.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Entidades\obj\Debug\Entidades.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\Entidades\obj\Debug\Entidades.pdb
+F:\ \DiarsT2\SonoVisos\Entidades\bin\Debug\Entidades.dll
+F:\ \DiarsT2\SonoVisos\Entidades\bin\Debug\Entidades.pdb
+F:\ \DiarsT2\SonoVisos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\ \DiarsT2\SonoVisos\Entidades\obj\Debug\Entidades.dll
+F:\ \DiarsT2\SonoVisos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Entidades\bin\Debug\Entidades.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Entidades\obj\Debug\Entidades.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\Entidades\obj\Debug\Entidades.pdb
+H:\ \DiarsT2_2\SonoVisos\Entidades\bin\Debug\Entidades.dll
+H:\ \DiarsT2_2\SonoVisos\Entidades\bin\Debug\Entidades.pdb
+H:\ \DiarsT2_2\SonoVisos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+H:\ \DiarsT2_2\SonoVisos\Entidades\obj\Debug\Entidades.dll
+H:\ \DiarsT2_2\SonoVisos\Entidades\obj\Debug\Entidades.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\Entidades\bin\Debug\Entidades.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Entidades\bin\Debug\Entidades.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Pepe\DiarsT2_2\SonoVisos\Entidades\obj\Debug\Entidades.dll
+D:\Pepe\DiarsT2_2\SonoVisos\Entidades\obj\Debug\Entidades.pdb
+H:\SonoVisos\Entidades\bin\Debug\Entidades.dll
+H:\SonoVisos\Entidades\bin\Debug\Entidades.pdb
+H:\SonoVisos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+H:\SonoVisos\Entidades\obj\Debug\Entidades.dll
+H:\SonoVisos\Entidades\obj\Debug\Entidades.pdb
+D:\SonoVisos\Entidades\bin\Debug\Entidades.dll
+D:\SonoVisos\Entidades\bin\Debug\Entidades.pdb
+D:\SonoVisos\Entidades\obj\Debug\Entidades.dll
+D:\SonoVisos\Entidades\obj\Debug\Entidades.pdb
+D:\SonoVisos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Dany\Downloads\SonoVisos\Entidades\bin\Debug\Entidades.dll
+C:\Users\Dany\Downloads\SonoVisos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Dany\Downloads\SonoVisos\Entidades\obj\Debug\Entidades.dll
+C:\Users\Dany\Downloads\SonoVisos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Dany\Downloads\SonoVisos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\SonoVisos\Entidades\bin\Debug\Entidades.dll
+C:\Users\usuario\Desktop\SonoVisos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\usuario\Desktop\SonoVisos\Entidades\obj\Debug\Entidades.dll
+C:\Users\usuario\Desktop\SonoVisos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\usuario\Desktop\SonoVisos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

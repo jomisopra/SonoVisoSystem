@@ -1,0 +1,88 @@
+﻿@model IEnumerable<Entidades.Medio>
+
+
+<div style="overflow: auto">
+    <table class="table">
+        <tr>
+            <th>
+                #
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Anio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Stock)
+            </th>
+            <th>
+                Costo
+            </th>
+            <th>
+                Titulo
+            </th>
+            <th>
+                Descripcion
+            </th>
+            <th>
+                Formato
+            </th>
+            <th>
+                Duracion
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdProducto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Anio)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Estado)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Stock)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Costo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Titulo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descripcion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Formato.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Duracion)
+                </td>
+                <td>
+                    @Ajax.ActionLink("Editar", "Edit", new { id = item.IdProducto }, new AjaxOptions()
+            {
+                UpdateTargetId = "form",
+                HttpMethod = "Get",
+                InsertionMode = InsertionMode.Replace
+            }) | 
+                    @Html.ActionLink("Details", "Details", new { id = item.IdProducto }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.IdProducto })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

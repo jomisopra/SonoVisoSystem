@@ -1,0 +1,268 @@
+﻿@model SonoVisos.ViewModel.AlquilerViewModel
+
+
+@using (Html.BeginForm("Create"))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Alquiler</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        
+        <div class="col-md-6">
+            
+            <div class="form-group">
+                @Html.LabelFor(model => model.Fecha, htmlAttributes: new { @class = "control-label col-md-3" })
+                <div class="col-md-9">
+                    @Html.DisplayFor(model => model.Fecha, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Fecha, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            @*<div class="form-group">
+                @Html.LabelFor(model => model.UsuarioId, htmlAttributes: new { @class = "control-label col-md-3" })
+                <div class="col-md-9">
+                    @Html.EditorFor(model => model.UsuarioId, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.UsuarioId, "", new { @class = "text-danger" })
+                </div>
+            </div>*@
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.ClienteNombre, htmlAttributes: new { @class = "control-label col-md-3" })
+                <div class="col-md-9">
+                    @Html.HiddenFor(model => model.ClienteId)
+                    @Html.EditorFor(model => model.ClienteNombre, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.ClienteId, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+        </div>
+        
+        <div class="col-md-6">
+            
+            <div class="form-group">
+                <label class="control-label col-md-3" for="Total">Total</label>
+                <div class="col-md-9">
+                    <label id="Total">S/. 00.00</label>
+                </div>
+            </div>
+           
+        </div>
+
+
+        <div class="col-md-12">
+
+            <div class="panel-heading"><h4 class="panel-title">Detalle</h4></div>
+
+            <div class="form-group">
+                <input class="form-control" id="IdProductoFk" placeholder="" type="hidden">
+                <div class="col-md-3"><input class="form-control" id="ProductoNombre" placeholder="Ingrese producto" type="text"></div>
+                <div class="col-md-2"><input class="form-control" id="CantidadUnitaria" placeholder="Cantidad" type="text"></div>
+                <div class="col-md-2"><input class="form-control" readonly="" id="PrecioUnitario" placeholder="" type="text"></div>
+                <div class="col-md-2"><a id="btnAgregarDetalleAlquiler" class="btn btn-primary"><i class="glyphicon glyphicon-plus"></i></a></div>
+            </div>
+
+            <table id="tableDetalleAlquileres" class="table table-bordered table-hover">
+                <thead>
+                    <tr>
+                        <th>Producto</th>
+                        <th>Cantidad</th>
+                        <th>Precio Unitario</th>
+                        <th>Total</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.DetalleAlquileres.Select((x, i) => new { Data = x, Index = i }))
+                    {
+                        <tr>
+                            <td class="hidden"><input type="hidden" name="DetalleAlquileres[@item.Index].IdProductoFk" value="@item.Data.IdProductoFk" /></td>
+                            <td class='text-center'><input type="hidden" name="DetalleAlquileres[@item.Index].ProductoNombre" /></td>
+                            <td class='text-center'><input type="hidden" name="DetalleAlquileres[@item.Index].CantidadUnitaria" value="@item.Data.CantidadUnitaria" />@Html.DisplayFor(modelItem => item.Data.CantidadUnitaria)</td>
+                            <td class='text-center'><input type="hidden" name="DetalleAlquileres[@item.Index].PrecioUnitario" value="@item.Data.PrecioUnitario" />@Html.DisplayFor(modelItem => item.Data.PrecioUnitario)</td>
+                            <td class='text-center'><input type="hidden" name="DetalleAlquileres[@item.Index].PrecioTotal" value="@item.Data.PrecioTotal" />@Html.DisplayFor(modelItem => item.Data.PrecioTotal)</td>
+                            <td class='text-center '><a href='#' class='quitarDetalleAlquiler'>Eliminar</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-9">
+                <input type="submit" value="Registrar" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script type="text/javascript">
+
+        (function($) {
+
+            var total = 0;
+
+            var template = "<tr>" +
+                "<td class='hidden'><input type='hidden' name='DetalleAlquileres[{{index}}].IdProductoFk' value='{{IdProductoFk}}' /></td>" +
+                "<td class='text-center'><input type='hidden' name='DetalleAlquileres[{{index}}].ProductoNombre' value='{{ProductoNombre}}' />{{ProductoNombre}}</td>" +
+                "<td class='text-center'><input type='hidden' name='DetalleAlquileres[{{index}}].CantidadUnitaria' value='{{CantidadUnitaria}}' />{{CantidadUnitaria}}</td>" +
+                "<td class='text-center'><input type='hidden' name='DetalleAlquileres[{{index}}].PrecioUnitario' value='{{PrecioUnitario}}' />{{PrecioUnitario}}</td>" +
+                "<td class='text-center'><input type='hidden' class='PrecioTotal' name='DetalleAlquileres[{{index}}].PrecioTotal' value='{{PrecioTotal}}' />{{PrecioTotal}}</td>" +
+                "<td class='text-center '><a href='#' class='quitarDetalleAlquiler'>Eliminar</a></td>" +
+                "</tr>";
+
+            $('#btnAgregarDetalleAlquiler').on('click', addDetalleAlquiler);
+
+            $('#tableDetalleAlquileres').on('click', '.quitarDetalleAlquiler', quitarDetalleAlquiler);
+
+            function addDetalleAlquiler(e) {
+
+                e.preventDefault();
+                var $tbody = $('#tableDetalleAlquileres').find('tbody');
+
+                var $IdProductoFk = $("#IdProductoFk").val();
+                var $ProductoNombre = $("#ProductoNombre").val();
+                var $CantidadUnitaria = $("#CantidadUnitaria").val();
+                var $PrecioUnitario = $("#PrecioUnitario").val();
+                var $PrecioTotal = $CantidadUnitaria * $PrecioUnitario;
+                total = total + $PrecioTotal;
+                $('#Total').html("S/." + total.toString());
+                if ($ProductoNombre != "" || $CantidadUnitaria != "")
+                    $tbody.append(reemplazarTemplate($tbody, $IdProductoFk, $ProductoNombre, $CantidadUnitaria, $PrecioUnitario, $PrecioTotal));
+            };
+
+            function reemplazarTemplate($tbody,$IdProductoFk, $ProductoNombre, $CantidadUnitaria, $PrecioUnitario, $PrecioTotal) {
+                var tr = template.replace(/{{index}}/g, $tbody.find('tr').length);
+                tr = tr.replace(/{{ProductoNombre}}/g, $ProductoNombre);
+                tr = tr.replace(/{{CantidadUnitaria}}/g, $CantidadUnitaria);
+                tr = tr.replace(/{{PrecioUnitario}}/g, $PrecioUnitario);
+                tr = tr.replace(/{{PrecioTotal}}/g, $PrecioTotal);
+                tr = tr.replace(/{{IdProductoFk}}/g, $IdProductoFk);
+                return tr;
+            };
+
+            function quitarDetalleAlquiler(e) {
+                e.preventDefault();
+                var tr = $(this).closest('tr');
+
+                var totalRow = tr.find('.PrecioTotal').val() || 0;
+                total = total - totalRow;
+                $('#Total').html("S/." + total.toString());
+
+                var index = Number(tr.index());
+                var trs = $('#tableDetalleAlquileres tbody').find('tr');
+                removeItems(tr, index, trs);
+            };
+
+            function removeItems(tr, index, trs) {
+                for (var i = (index + 1); i < trs.length; i++) {
+                    var inputs = trs.eq(i).find('input');
+                    if (inputs.length > 0) {
+                        for (var j = 0; j < inputs.length; j++) {
+                            var name = inputs[j].name;
+                            var oldIndex = inputs[j].name.substring(name.indexOf('[') + 1, name.indexOf(']'));
+                            inputs[j].name = inputs[j].name.replace("[" + oldIndex + "]", "[" + (--oldIndex) + "]");
+                        }
+                    }
+                }
+                $(tr).remove();
+            };
+
+
+            var map = {};
+
+            $("#ClienteNombre").typeahead({
+                source: function (query, process) {
+                    $("#ClienteId").val('-1');
+
+                    if ($("#ClienteNombre").val() == '') {
+                        $("#ClienteId").val('-1');
+                    }
+                    var states = [];
+
+                    var url = '/Clientes/DevolverClientesPorCriterio';
+                    return $.post(url, { query: query }, function (data) {
+                        $.each(data, function (i, state) {
+                            map[state.ClienteNombre] = state;
+                            states.push(state.ClienteNombre);
+                        });
+                        process(states);
+                    });
+                },
+                updater: function (item) {
+                    var selectedState = map[item].ClienteId;
+                    $("#ClienteId").val(selectedState);
+
+                    return item;
+                },
+                matcher: function (item) {
+                    if (item.toLowerCase().indexOf(this.query.trim().toLowerCase()) != -1) {
+                        return true;
+                    }
+                },
+                sorter: function (items) {
+                    return items.sort();
+                },
+                highlighter: function (item) {
+                    var regex = new RegExp('(' + this.query + ')', 'gi');
+                    return item.replace(regex, "<strong>$1</strong>");
+                },
+                minLength: 2,
+            });
+
+
+            var mapProductos = {};
+
+            $("#ProductoNombre").typeahead({
+                source: function (query, process) {
+                    $("#IdProductoFk").val('-1');
+
+                    if ($("#ProductoNombre").val() == '') {
+                        $("#IdProductoFk").val('-1');
+                    }
+                    var states = [];
+
+                    var url = '/Producto/DevolverProductosPorCriterio';
+                    return $.post(url, { query: query }, function (data) {
+                        $.each(data, function (i, state) {
+                            mapProductos[state.ProductoNombre] = state;
+                            states.push(state.ProductoNombre);
+                        });
+                        process(states);
+                    });
+                },
+                updater: function (item) {
+                    var idProductoFk = mapProductos[item].IdProductoFk;
+                    var precioUnitario = mapProductos[item].PrecioUnitario;
+                    $("#IdProductoFk").val(idProductoFk);
+                    $("#PrecioUnitario").val(precioUnitario);
+
+                    return item;
+                },
+                matcher: function (item) {
+                    if (item.toLowerCase().indexOf(this.query.trim().toLowerCase()) != -1) {
+                        return true;
+                    }
+                },
+                sorter: function (items) {
+                    return items.sort();
+                },
+                highlighter: function (item) {
+                    var regex = new RegExp('(' + this.query + ')', 'gi');
+                    return item.replace(regex, "<strong>$1</strong>");
+                },
+                minLength: 2,
+            });
+
+        })(jQuery);
+    </script>
+}

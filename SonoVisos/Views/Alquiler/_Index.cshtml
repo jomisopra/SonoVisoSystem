@@ -1,0 +1,56 @@
+﻿@model IEnumerable<SonoVisos.ViewModel.AlquilerViewModel>
+
+<div style="overflow: auto">
+    <table class="table">
+        <tr>
+            <th>
+                #
+            </th>
+            <th>
+                Fecha
+            </th>
+            <th>
+                Cliente
+            </th>
+            <th>
+                Usuario
+            </th>
+            <th>
+                Total
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th>
+                    
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fecha)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ClienteNombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UsuarioNombre)
+                </td>
+                <td>
+                    @*@Html.DisplayFor(modelItem => item.DetalleAlquileres.Sum(m => m.CantidadTotal * m.PrecioTotal))*@
+                </td>
+                <td>
+                    @Ajax.ActionLink("Editar", "Edit", new { id = item.IdAlquiler }, new AjaxOptions()
+                    {
+                        UpdateTargetId = "form",
+                        HttpMethod = "Get",
+                        InsertionMode = InsertionMode.Replace
+                    }) | 
+                    @Html.ActionLink("Details", "Details", new { id = item.IdAlquiler }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.IdAlquiler })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

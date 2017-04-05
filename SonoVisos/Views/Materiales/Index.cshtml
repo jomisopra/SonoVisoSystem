@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Entidades.Material>
+
+
+<p>
+    @Ajax.ActionLink("Registra Nuevo", "Create", null,
+        new AjaxOptions()
+        {
+            UpdateTargetId = "form",
+            HttpMethod = "Get",
+            InsertionMode = InsertionMode.Replace
+        }, new { @class = "btn btn-success" })
+</p>
+
+<div class="row">
+    <div id="form" class="col-sm-4">
+        @Html.Action("Create")
+    </div>
+    <div class="col-sm-8">
+        @using (Ajax.BeginForm("Index", new AjaxOptions()
+        {
+            UpdateTargetId = "search_result",
+            HttpMethod = "Post",
+            InsertionMode = InsertionMode.Replace
+        }))
+        {
+            <div class="form-inline">
+                <div class="form-group">
+                    @Html.Label("criterio", "Criterio")
+                    @Html.TextBox("criterio", null, new { @class = "form-control" })
+                    <button class="btn btn-darnger">Buscar</button>
+                </div>
+            </div>
+        }
+        <div id="search_result">
+            @Html.Partial("_Index", Model)
+        </div>
+    </div>
+</div>

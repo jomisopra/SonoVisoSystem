@@ -1,0 +1,890 @@
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\SonoVisos.dll.config
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\SonoVisos.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\SonoVisos.pdb
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Antlr3.Runtime.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Entidades.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\EntityFramework.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Newtonsoft.Json.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Owin.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Service.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\System.Web.Helpers.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\System.Web.Mvc.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\System.Web.Optimization.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\System.Web.Razor.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\System.Web.WebPages.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\WebGrease.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Repository.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Entidades.pdb
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Service.pdb
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\System.Web.Helpers.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\System.Web.Mvc.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\System.Web.Optimization.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\System.Web.Razor.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\System.Web.WebPages.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Antlr3.Runtime.pdb
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Newtonsoft.Json.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\EntityFramework.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\Repository.pdb
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\System.Web.Razor.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\EntityFramework.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csprojResolveAssemblyReference.cache
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\obj\Debug\SonoVisos.dll
+C:\Users\IgA\documents\visual studio 2013\Projects\SonoVisos\SonoVisos\obj\Debug\SonoVisos.pdb
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\SonoVisos.dll.config
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\SonoVisos.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\SonoVisos.pdb
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Antlr3.Runtime.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Entidades.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\EntityFramework.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Web.Infrastructure.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Newtonsoft.Json.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Owin.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Service.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Helpers.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Mvc.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Optimization.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Razor.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\System.Web.WebPages.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\WebGrease.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Repository.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Entidades.pdb
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Service.pdb
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Helpers.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Mvc.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Optimization.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Razor.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\System.Web.WebPages.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Antlr3.Runtime.pdb
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Newtonsoft.Json.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\EntityFramework.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\Repository.pdb
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\System.Web.Helpers.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\System.Web.Mvc.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\System.Web.Optimization.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\System.Web.Razor.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\EntityFramework.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\EntityFramework.SqlServer.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csprojResolveAssemblyReference.cache
+F:\ \DiarsT2\SonoVisos\SonoVisos\obj\Debug\SonoVisos.dll
+F:\ \DiarsT2\SonoVisos\SonoVisos\obj\Debug\SonoVisos.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\SonoVisos.dll.config
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\SonoVisos.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\SonoVisos.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Antlr3.Runtime.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Entidades.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\EntityFramework.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Newtonsoft.Json.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Owin.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Service.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Helpers.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Mvc.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Optimization.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Razor.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\System.Web.WebPages.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\WebGrease.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Repository.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Entidades.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Service.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Helpers.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Mvc.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Optimization.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\System.Web.Razor.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\System.Web.WebPages.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Antlr3.Runtime.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Newtonsoft.Json.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\EntityFramework.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\Repository.pdb
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\System.Web.Razor.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\EntityFramework.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csprojResolveAssemblyReference.cache
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\obj\Debug\SonoVisos.dll
+C:\Users\UCLAB615\Desktop\DiarsT2\SonoVisos\SonoVisos\obj\Debug\SonoVisos.pdb
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\SonoVisos.dll.config
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\SonoVisos.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\SonoVisos.pdb
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Antlr3.Runtime.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Entidades.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\EntityFramework.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Web.Infrastructure.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Newtonsoft.Json.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Owin.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Service.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Helpers.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Mvc.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Optimization.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Razor.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.WebPages.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\WebGrease.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Repository.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Entidades.pdb
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Service.pdb
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Helpers.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Mvc.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Optimization.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Razor.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.WebPages.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Antlr3.Runtime.pdb
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Newtonsoft.Json.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\EntityFramework.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\Repository.pdb
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\System.Web.Helpers.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\System.Web.Mvc.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\System.Web.Optimization.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\System.Web.Razor.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Deployment.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Razor.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\EntityFramework.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\EntityFramework.SqlServer.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Google.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csprojResolveAssemblyReference.cache
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\obj\Debug\SonoVisos.dll
+H:\ \DiarsT2_2\SonoVisos\SonoVisos\obj\Debug\SonoVisos.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\SonoVisos.dll.config
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\SonoVisos.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\SonoVisos.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Antlr3.Runtime.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Entidades.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\EntityFramework.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Web.Infrastructure.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Newtonsoft.Json.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Owin.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Service.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Helpers.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Mvc.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Optimization.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Razor.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.WebPages.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\WebGrease.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Repository.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Entidades.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Service.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Helpers.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Mvc.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Optimization.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.Razor.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.WebPages.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Antlr3.Runtime.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Newtonsoft.Json.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\EntityFramework.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\Repository.pdb
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\System.Web.Helpers.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\System.Web.Mvc.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\System.Web.Optimization.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\System.Web.Razor.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\EntityFramework.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csprojResolveAssemblyReference.cache
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\obj\Debug\SonoVisos.dll
+D:\Pepe\DiarsT2_2\SonoVisos\SonoVisos\obj\Debug\SonoVisos.pdb
+H:\SonoVisos\SonoVisos\bin\SonoVisos.dll.config
+H:\SonoVisos\SonoVisos\bin\SonoVisos.dll
+H:\SonoVisos\SonoVisos\bin\SonoVisos.pdb
+H:\SonoVisos\SonoVisos\bin\Antlr3.Runtime.dll
+H:\SonoVisos\SonoVisos\bin\Entidades.dll
+H:\SonoVisos\SonoVisos\bin\EntityFramework.dll
+H:\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.dll
+H:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.dll
+H:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.dll
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.dll
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.dll
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.dll
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.dll
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.dll
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.dll
+H:\SonoVisos\SonoVisos\bin\Microsoft.Web.Infrastructure.dll
+H:\SonoVisos\SonoVisos\bin\Newtonsoft.Json.dll
+H:\SonoVisos\SonoVisos\bin\Owin.dll
+H:\SonoVisos\SonoVisos\bin\Service.dll
+H:\SonoVisos\SonoVisos\bin\System.Web.Helpers.dll
+H:\SonoVisos\SonoVisos\bin\System.Web.Mvc.dll
+H:\SonoVisos\SonoVisos\bin\System.Web.Optimization.dll
+H:\SonoVisos\SonoVisos\bin\System.Web.Razor.dll
+H:\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.dll
+H:\SonoVisos\SonoVisos\bin\System.Web.WebPages.dll
+H:\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.dll
+H:\SonoVisos\SonoVisos\bin\WebGrease.dll
+H:\SonoVisos\SonoVisos\bin\Repository.dll
+H:\SonoVisos\SonoVisos\bin\Entidades.pdb
+H:\SonoVisos\SonoVisos\bin\Service.pdb
+H:\SonoVisos\SonoVisos\bin\System.Web.Helpers.xml
+H:\SonoVisos\SonoVisos\bin\System.Web.Mvc.xml
+H:\SonoVisos\SonoVisos\bin\System.Web.Optimization.xml
+H:\SonoVisos\SonoVisos\bin\System.Web.Razor.xml
+H:\SonoVisos\SonoVisos\bin\System.Web.WebPages.xml
+H:\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.xml
+H:\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.xml
+H:\SonoVisos\SonoVisos\bin\Antlr3.Runtime.pdb
+H:\SonoVisos\SonoVisos\bin\Newtonsoft.Json.xml
+H:\SonoVisos\SonoVisos\bin\EntityFramework.xml
+H:\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.xml
+H:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.xml
+H:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.xml
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.xml
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.xml
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.xml
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.xml
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.xml
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.xml
+H:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\SonoVisos\SonoVisos\bin\Repository.pdb
+H:\SonoVisos\SonoVisos\bin\es\System.Web.Helpers.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\System.Web.Mvc.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\System.Web.Optimization.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\System.Web.Razor.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Deployment.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Razor.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\EntityFramework.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\EntityFramework.SqlServer.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Google.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+H:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+H:\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csprojResolveAssemblyReference.cache
+H:\SonoVisos\SonoVisos\obj\Debug\SonoVisos.dll
+H:\SonoVisos\SonoVisos\obj\Debug\SonoVisos.pdb
+D:\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csprojResolveAssemblyReference.cache
+D:\SonoVisos\SonoVisos\obj\Debug\SonoVisos.Migrations.first.resources
+D:\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csproj.GenerateResource.Cache
+D:\SonoVisos\SonoVisos\bin\SonoVisos.dll.config
+D:\SonoVisos\SonoVisos\bin\SonoVisos.dll
+D:\SonoVisos\SonoVisos\bin\SonoVisos.pdb
+D:\SonoVisos\SonoVisos\bin\Antlr3.Runtime.dll
+D:\SonoVisos\SonoVisos\bin\Entidades.dll
+D:\SonoVisos\SonoVisos\bin\EntityFramework.dll
+D:\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.dll
+D:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.dll
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.dll
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.dll
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SonoVisos\SonoVisos\bin\Microsoft.Web.Infrastructure.dll
+D:\SonoVisos\SonoVisos\bin\Newtonsoft.Json.dll
+D:\SonoVisos\SonoVisos\bin\Owin.dll
+D:\SonoVisos\SonoVisos\bin\Service.dll
+D:\SonoVisos\SonoVisos\bin\System.Web.Helpers.dll
+D:\SonoVisos\SonoVisos\bin\System.Web.Mvc.dll
+D:\SonoVisos\SonoVisos\bin\System.Web.Optimization.dll
+D:\SonoVisos\SonoVisos\bin\System.Web.Razor.dll
+D:\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.dll
+D:\SonoVisos\SonoVisos\bin\System.Web.WebPages.dll
+D:\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.dll
+D:\SonoVisos\SonoVisos\bin\WebGrease.dll
+D:\SonoVisos\SonoVisos\bin\Repository.dll
+D:\SonoVisos\SonoVisos\bin\Entidades.pdb
+D:\SonoVisos\SonoVisos\bin\Service.pdb
+D:\SonoVisos\SonoVisos\bin\System.Web.Helpers.xml
+D:\SonoVisos\SonoVisos\bin\System.Web.Mvc.xml
+D:\SonoVisos\SonoVisos\bin\System.Web.Optimization.xml
+D:\SonoVisos\SonoVisos\bin\System.Web.Razor.xml
+D:\SonoVisos\SonoVisos\bin\System.Web.WebPages.xml
+D:\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.xml
+D:\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.xml
+D:\SonoVisos\SonoVisos\bin\Antlr3.Runtime.pdb
+D:\SonoVisos\SonoVisos\bin\Newtonsoft.Json.xml
+D:\SonoVisos\SonoVisos\bin\EntityFramework.xml
+D:\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.xml
+D:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.xml
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.xml
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.xml
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SonoVisos\SonoVisos\bin\Repository.pdb
+D:\SonoVisos\SonoVisos\bin\es\System.Web.Helpers.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\System.Web.Mvc.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\System.Web.Optimization.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\System.Web.Razor.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\EntityFramework.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\EntityFramework.SqlServer.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\SonoVisos\SonoVisos\obj\Debug\SonoVisos.dll
+D:\SonoVisos\SonoVisos\obj\Debug\SonoVisos.pdb
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\SonoVisos.dll.config
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\SonoVisos.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\SonoVisos.pdb
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Antlr3.Runtime.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Entidades.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\EntityFramework.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Web.Infrastructure.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Newtonsoft.Json.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Owin.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Service.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\System.Web.Helpers.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\System.Web.Mvc.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\System.Web.Optimization.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\System.Web.Razor.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\System.Web.WebPages.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\WebGrease.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Repository.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Entidades.pdb
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Service.pdb
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\System.Web.Helpers.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\System.Web.Mvc.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\System.Web.Optimization.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\System.Web.Razor.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\System.Web.WebPages.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Antlr3.Runtime.pdb
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Newtonsoft.Json.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\EntityFramework.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\Repository.pdb
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\System.Web.Helpers.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\System.Web.Mvc.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\System.Web.Optimization.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\System.Web.Razor.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Deployment.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Razor.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\EntityFramework.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\EntityFramework.SqlServer.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Google.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csprojResolveAssemblyReference.cache
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\obj\Debug\SonoVisos.Migrations.first.resources
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csproj.GenerateResource.Cache
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\obj\Debug\SonoVisos.dll
+\\DESKTOP-BMSKO32\Users\Public\SonoVisos\SonoVisos\obj\Debug\SonoVisos.pdb
+G:\SonoVisos\SonoVisos\bin\SonoVisos.dll.config
+G:\SonoVisos\SonoVisos\bin\SonoVisos.dll
+G:\SonoVisos\SonoVisos\bin\SonoVisos.pdb
+G:\SonoVisos\SonoVisos\bin\Antlr3.Runtime.dll
+G:\SonoVisos\SonoVisos\bin\Entidades.dll
+G:\SonoVisos\SonoVisos\bin\EntityFramework.dll
+G:\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.dll
+G:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.dll
+G:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.dll
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.dll
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.dll
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.dll
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.dll
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.dll
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.dll
+G:\SonoVisos\SonoVisos\bin\Microsoft.Web.Infrastructure.dll
+G:\SonoVisos\SonoVisos\bin\Newtonsoft.Json.dll
+G:\SonoVisos\SonoVisos\bin\Owin.dll
+G:\SonoVisos\SonoVisos\bin\Service.dll
+G:\SonoVisos\SonoVisos\bin\System.Web.Helpers.dll
+G:\SonoVisos\SonoVisos\bin\System.Web.Mvc.dll
+G:\SonoVisos\SonoVisos\bin\System.Web.Optimization.dll
+G:\SonoVisos\SonoVisos\bin\System.Web.Razor.dll
+G:\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.dll
+G:\SonoVisos\SonoVisos\bin\System.Web.WebPages.dll
+G:\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.dll
+G:\SonoVisos\SonoVisos\bin\WebGrease.dll
+G:\SonoVisos\SonoVisos\bin\Repository.dll
+G:\SonoVisos\SonoVisos\bin\Entidades.pdb
+G:\SonoVisos\SonoVisos\bin\Service.pdb
+G:\SonoVisos\SonoVisos\bin\System.Web.Helpers.xml
+G:\SonoVisos\SonoVisos\bin\System.Web.Mvc.xml
+G:\SonoVisos\SonoVisos\bin\System.Web.Optimization.xml
+G:\SonoVisos\SonoVisos\bin\System.Web.Razor.xml
+G:\SonoVisos\SonoVisos\bin\System.Web.WebPages.xml
+G:\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.xml
+G:\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.xml
+G:\SonoVisos\SonoVisos\bin\Antlr3.Runtime.pdb
+G:\SonoVisos\SonoVisos\bin\Newtonsoft.Json.xml
+G:\SonoVisos\SonoVisos\bin\EntityFramework.xml
+G:\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.xml
+G:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.xml
+G:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.xml
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.xml
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.xml
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.xml
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.xml
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.xml
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.xml
+G:\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\SonoVisos\SonoVisos\bin\Repository.pdb
+G:\SonoVisos\SonoVisos\bin\es\System.Web.Helpers.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\System.Web.Mvc.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\System.Web.Optimization.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\System.Web.Razor.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\EntityFramework.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\EntityFramework.SqlServer.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Google.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+G:\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+G:\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csprojResolveAssemblyReference.cache
+G:\SonoVisos\SonoVisos\obj\Debug\SonoVisos.Migrations.first.resources
+G:\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csproj.GenerateResource.Cache
+G:\SonoVisos\SonoVisos\obj\Debug\SonoVisos.dll
+G:\SonoVisos\SonoVisos\obj\Debug\SonoVisos.pdb
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\SonoVisos.dll.config
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\SonoVisos.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\SonoVisos.pdb
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Antlr3.Runtime.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Entidades.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\EntityFramework.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Newtonsoft.Json.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Owin.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Service.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\System.Web.Helpers.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\System.Web.Mvc.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\System.Web.Optimization.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\System.Web.Razor.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\System.Web.WebPages.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\WebGrease.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Repository.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Entidades.pdb
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Service.pdb
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\System.Web.Helpers.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\System.Web.Mvc.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\System.Web.Optimization.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\System.Web.Razor.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\System.Web.WebPages.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Antlr3.Runtime.pdb
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Newtonsoft.Json.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\EntityFramework.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\Repository.pdb
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\System.Web.Razor.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\EntityFramework.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csprojResolveAssemblyReference.cache
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\obj\Debug\SonoVisos.Migrations.first.resources
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csproj.GenerateResource.Cache
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\obj\Debug\SonoVisos.dll
+C:\Users\Dany\Downloads\SonoVisos\SonoVisos\obj\Debug\SonoVisos.pdb
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\SonoVisos.dll.config
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\SonoVisos.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\SonoVisos.pdb
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Antlr3.Runtime.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Entidades.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\EntityFramework.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Owin.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Service.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\System.Web.Helpers.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\System.Web.Mvc.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\System.Web.Optimization.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\System.Web.Razor.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\System.Web.WebPages.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\WebGrease.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Repository.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Entidades.pdb
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Service.pdb
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\System.Web.Helpers.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\System.Web.Mvc.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\System.Web.Optimization.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\System.Web.Razor.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\System.Web.WebPages.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\System.Web.WebPages.Razor.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Antlr3.Runtime.pdb
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Newtonsoft.Json.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\EntityFramework.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\Repository.pdb
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\System.Web.Razor.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\EntityFramework.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\obj\Debug\SonoVisos.Migrations.first.resources
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\obj\Debug\SonoVisos.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\obj\Debug\SonoVisos.dll
+C:\Users\usuario\Desktop\SonoVisos\SonoVisos\obj\Debug\SonoVisos.pdb
